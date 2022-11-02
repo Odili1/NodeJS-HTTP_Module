@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-http_module",
+  "version": "1.0.0",
+  "description": "A nodejs project involving server creation and rendering",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Odili1/NodeJS-HTTP_Module.git"
+  },
+  "author": "G-code",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Odili1/NodeJS-HTTP_Module/issues"
+  },
+  "homepage": "https://github.com/Odili1/NodeJS-HTTP_Module#readme"
+}
